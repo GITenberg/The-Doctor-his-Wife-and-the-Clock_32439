@@ -16,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Anna_Katharine_Green
 description: <Span><span>Published in 1895, The Doctor, his Wife, and the Clock was
   written by noted American crime novelist, Anna Katharine Green</span></span>
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32439#The-Doctor-his-Wife-and-the-Clock
 gutenberg_issued: '2010-05-19'
 gutenberg_type: Text
 identifiers:
